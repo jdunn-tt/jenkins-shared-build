@@ -1,3 +1,9 @@
+def call(image) {
+    defineImage(image)
+    prepImage()
+    buildImage()
+} 
+
 def defineImage(image) {
     try {
             
